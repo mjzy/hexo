@@ -29,5 +29,3 @@ $ git add E:/Demo/GitHub/hexo/themes/pure
 ```
 $ git add E:/Demo/GitHub/hexo/themes/pure
 ```
-
-
